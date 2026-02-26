@@ -1,5 +1,4 @@
 # Building-Your-Own-Cybersecurity-Home-Lab-A-Practical-Step-by-Step-Guide
-Step-by-Step Virtual Lab Setup
 Want to move past theory and actually practice cybersecurity for real?
 
 This step-by-step guide shows you exactly how to build your own cybersecurity home lab from scratch. Whether you're a student, an aspiring professional, or already working in the field, you’ll create a safe virtual environment where you can practice both offensive and defensive skills — without putting real systems at risk.
